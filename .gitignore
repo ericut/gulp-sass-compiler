@@ -1,0 +1,14 @@
+/node_modules/
+/node_modules
+# assets scss
+/assets/scss/*.scss
+/assets/scss/*
+/assets/scss/
+/assets/scss
+*.scss
+.scss
+.log
+
+preopos-6.config
+*.config
+.config
