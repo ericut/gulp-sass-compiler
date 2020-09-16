@@ -11,8 +11,9 @@ gulp-autoprefixer
 
 ## Instalar Dependências
 
+    npm install gulp -g
+
     npm install
-    yarn
 
 ## Rodar o Script
 
